@@ -1,0 +1,25 @@
+node_modules
+.DS_Store
+.env
+.env.local
+.env.*
+build
+.next
+dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Added by Project Command Center AI Agent
+*.key
+*.pem
+secrets.json
+node_modules/
+venv/
+.venv/
+dist/
+build/
+.next/
+__pycache__/
+*.pyc
+Thumbs.db
